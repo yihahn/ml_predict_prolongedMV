@@ -1,0 +1,24 @@
+itemid,icd_code,icd_version,long_title
+225448.0,9655,9,Tracheostomy toilette
+226237.0,311,9,Temporary tracheostomy
+,0BW18FZ,10,"Revision of Tracheostomy Device in Trachea, Via Natural or Artificial Opening Endoscopic"
+,0BW17FZ,10,"Revision of Tracheostomy Device in Trachea, Via Natural or Artificial Opening"
+,0BW14FZ,10,"Revision of Tracheostomy Device in Trachea, Percutaneous Endoscopic Approach"
+,0BW13FZ,10,"Revision of Tracheostomy Device in Trachea, Percutaneous Approach"
+,0BW10FZ,10,"Revision of Tracheostomy Device in Trachea, Open Approach"
+,0BW1XFZ,10,"Revision of Tracheostomy Device in Trachea, External Approach"
+,3174,9,Revision of tracheostomy
+,9723,9,Replacement of tracheostomy tube
+,9737,9,Removal of tracheostomy tube
+,0BP18FZ,10,"Removal of Tracheostomy Device from Trachea, Via Natural or Artificial Opening Endoscopic"
+,0BP17FZ,10,"Removal of Tracheostomy Device from Trachea, Via Natural or Artificial Opening"
+,0BP14FZ,10,"Removal of Tracheostomy Device from Trachea, Percutaneous Endoscopic Approach"
+,0BP13FZ,10,"Removal of Tracheostomy Device from Trachea, Percutaneous Approach"
+,0BP10FZ,10,"Removal of Tracheostomy Device from Trachea, Open Approach"
+,0BP1XFZ,10,"Removal of Tracheostomy Device from Trachea, External Approach"
+,3129,9,Other permanent tracheostomy
+,3121,9,Mediastinal tracheostomy
+,0B21XFZ,10,"Change Tracheostomy Device in Trachea, External Approach"
+,0B114F4,10,"Bypass Trachea to Cutaneous with Tracheostomy Device, Percutaneous Endoscopic Approach"
+,0B113F4,10,"Bypass Trachea to Cutaneous with Tracheostomy Device, Percutaneous Approach"
+,0B110F4,10,"Bypass Trachea to Cutaneous with Tracheostomy Device, Open Approach"
